@@ -1,20 +1,19 @@
 ---
-description: ssh 常用技巧
+description: hello
 ---
 
-# SSH
+# Page 1
 
-## 常用参数
+:smile:
 
+### 123
 
-
-## 本地转发
-
-
-
-## 远程转发
+{% hint style="info" %}
+asasas
+{% endhint %}
 
 
 
-## 动态转发
+assa
 
+sa
