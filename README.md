@@ -1,19 +1,6 @@
 ---
-description: hello
+description: ssh 常用技巧
 ---
 
-# Page 1
+# SSH
 
-:smile:
-
-### 123
-
-{% hint style="info" %}
-asasas
-{% endhint %}
-
-
-
-assa
-
-sa
